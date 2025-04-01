@@ -58,15 +58,6 @@
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-45" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
           <mxGeometry x="290" y="240" width="40" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="d5aKFBgyYYbfXDZaBMDP-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="290" y="240" width="40" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="d5aKFBgyYYbfXDZaBMDP-48" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="290" y="240" width="40" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="d5aKFBgyYYbfXDZaBMDP-49" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="150" width="105" height="8" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
