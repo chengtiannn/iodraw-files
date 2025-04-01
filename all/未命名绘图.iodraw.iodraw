@@ -26,7 +26,7 @@
           <mxGeometry x="-150" y="60" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-28" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="340" width="140" height="70" as="geometry" />
+          <mxGeometry x="340" y="460" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-32" value="作业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="570" width="140" height="70" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="-150" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-38" value="留言反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="340" y="330" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-39" value="试卷、试题管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="540" width="140" height="70" as="geometry" />
