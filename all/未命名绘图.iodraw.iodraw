@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-26" value="用户注册" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="140" height="70" as="geometry" />
+          <mxGeometry x="290" y="180" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-27" value="课程学习" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="60" width="140" height="70" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="160" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-34" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="220" width="140" height="70" as="geometry" />
+          <mxGeometry x="290" y="290" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-35" value="学习社区互动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="190" width="140" height="70" as="geometry" />
