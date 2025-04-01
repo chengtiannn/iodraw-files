@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-26" value="用户注册" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="70" width="140" height="70" as="geometry" />
+          <mxGeometry x="-240" y="110" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-27" value="课程学习" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="140" height="70" as="geometry" />
@@ -98,6 +98,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-331" y="240" as="sourcePoint" />
             <mxPoint x="-201" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5aKFBgyYYbfXDZaBMDP-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="130" as="sourcePoint" />
+            <mxPoint x="-210" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
