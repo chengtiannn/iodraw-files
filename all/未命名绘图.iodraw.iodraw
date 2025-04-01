@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-26" value="用户注册" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-80" width="140" height="70" as="geometry" />
+          <mxGeometry x="180" y="-50" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-27" value="课程学习" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="100" width="140" height="70" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry x="-230" y="210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-36" value="学习社区管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="140" height="70" as="geometry" />
+          <mxGeometry x="580" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-37" value="考试" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-38" value="留言反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="360" width="140" height="70" as="geometry" />
+          <mxGeometry x="220" y="300" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-39" value="试卷、试题管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="100" width="140" height="70" as="geometry" />
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-34" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="20" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-83" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d5aKFBgyYYbfXDZaBMDP-9" target="d5aKFBgyYYbfXDZaBMDP-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
