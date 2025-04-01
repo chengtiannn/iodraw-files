@@ -8,7 +8,7 @@
           <mxGeometry x="-80" y="115" width="55" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-9" value="教师用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-321" y="60" width="55" height="110" as="geometry" />
+          <mxGeometry x="-340" y="60" width="55" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-10" value="管理员用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-321" y="250" width="55" height="110" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="70" y="40" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-28" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="45" width="140" height="70" as="geometry" />
+          <mxGeometry x="-580" y="50" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-32" value="作业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="230" width="140" height="70" as="geometry" />
