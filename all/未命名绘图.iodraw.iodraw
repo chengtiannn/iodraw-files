@@ -16,6 +16,9 @@
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-10" value="学生用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="d5aKFBgyYYbfXDZaBMDP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d5aKFBgyYYbfXDZaBMDP-2" target="d5aKFBgyYYbfXDZaBMDP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
