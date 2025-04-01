@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-2" value="学生用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="150" width="55" height="110" as="geometry" />
+          <mxGeometry x="-55" y="100" width="55" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-9" value="教师用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="40" width="55" height="110" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="290" y="210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-32" value="作业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="110" width="140" height="70" as="geometry" />
+          <mxGeometry x="-230" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-33" value="作业管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="60" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-35" value="学习社区互动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="210" width="140" height="70" as="geometry" />
+          <mxGeometry x="-230" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-36" value="学习社区管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="200" width="140" height="70" as="geometry" />
