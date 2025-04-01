@@ -40,7 +40,7 @@
         <mxCell id="d5aKFBgyYYbfXDZaBMDP-35" value="学习社区互动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="446" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d5aKFBgyYYbfXDZaBMDP-36" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d5aKFBgyYYbfXDZaBMDP-36" value="学习社区管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
