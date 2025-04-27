@@ -8,7 +8,7 @@
           <mxGeometry x="-90" y="210" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-2" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="30" width="65" height="130" as="geometry" />
+          <mxGeometry x="590" y="30" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-3" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="390" width="30" height="60" as="geometry" />
