@@ -8,7 +8,7 @@
           <mxGeometry x="-370" y="910" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-2" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="747" y="135" width="80" height="160" as="geometry" />
+          <mxGeometry x="747" y="250" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-3" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="470" width="80" height="160" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="520" y="450" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-28" value="查询成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="140" height="70" as="geometry" />
+          <mxGeometry x="470" y="850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-29" value="查看可选课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="560" width="140" height="70" as="geometry" />
@@ -208,13 +208,13 @@
           <mxGeometry x="540" y="660" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-31" value="修改学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="100" width="140" height="70" as="geometry" />
+          <mxGeometry x="510" y="180" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-32" value="录入学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="140" height="70" as="geometry" />
+          <mxGeometry x="510" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-33" value="查询学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="280" width="140" height="70" as="geometry" />
+          <mxGeometry x="510" y="370" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
