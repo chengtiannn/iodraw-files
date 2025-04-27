@@ -8,7 +8,7 @@
           <mxGeometry x="-370" y="910" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-2" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="747" y="250" width="80" height="160" as="geometry" />
+          <mxGeometry x="840" y="240" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-3" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="640" width="80" height="160" as="geometry" />
@@ -228,7 +228,7 @@
             <mxPoint x="730" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xYQmgxB1bSYWteTrFGgh-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="FV9McBMn7sDS3tVeis9o-2">
+        <mxCell id="xYQmgxB1bSYWteTrFGgh-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xYQmgxB1bSYWteTrFGgh-31" target="FV9McBMn7sDS3tVeis9o-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="290" as="sourcePoint" />
             <mxPoint x="690" y="240" as="targetPoint" />
