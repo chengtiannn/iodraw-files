@@ -59,10 +59,10 @@
           <mxGeometry x="200" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-20" value="修改班级信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="650" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="460" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-21" value="删除班级信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="770" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="530" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
