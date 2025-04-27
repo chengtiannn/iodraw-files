@@ -94,7 +94,7 @@
             <mxPoint x="90" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FV9McBMn7sDS3tVeis9o-28" value="添加课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FV9McBMn7sDS3tVeis9o-28" value="修改课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-29" value="添加课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
