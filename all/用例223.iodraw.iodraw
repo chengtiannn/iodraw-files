@@ -25,7 +25,7 @@
         <mxCell id="FV9McBMn7sDS3tVeis9o-10" value="删除学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FV9McBMn7sDS3tVeis9o-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FV9McBMn7sDS3tVeis9o-11" value="添加班级信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="330" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FV9McBMn7sDS3tVeis9o-1" target="FV9McBMn7sDS3tVeis9o-7">
