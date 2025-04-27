@@ -210,7 +210,7 @@
         <mxCell id="xYQmgxB1bSYWteTrFGgh-31" value="修改学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xYQmgxB1bSYWteTrFGgh-32" value="修改学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xYQmgxB1bSYWteTrFGgh-32" value="录入学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-33" value="查询学生信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
