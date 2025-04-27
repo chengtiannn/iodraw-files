@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xYQmgxB1bSYWteTrFGgh-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165.94" y="850" width="214.05" height="300" as="geometry" />
+          <mxGeometry x="170" y="790" width="214.05" height="300" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="500" width="214.05" height="250" as="geometry" />
@@ -128,19 +128,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-6" value="修改账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199.99" y="860" width="140" height="70" as="geometry" />
+          <mxGeometry x="204.05" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-7" value="查询账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199.99" y="930" width="140" height="70" as="geometry" />
+          <mxGeometry x="204.05" y="870" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-8" value="设置账号权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="790" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-9" value="添加账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199.99" y="1070" width="140" height="70" as="geometry" />
+          <mxGeometry x="204.05" y="1010" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-10" value="删除账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199.99" y="1000" width="140" height="70" as="geometry" />
+          <mxGeometry x="204.05" y="940" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-11" value="设置账号个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="900" width="140" height="70" as="geometry" />
