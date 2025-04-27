@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="mF8qMrlc7mOWDsfMUAAT">
-    <mxGraphModel dx="3005" dy="2125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3005" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xYQmgxB1bSYWteTrFGgh-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-50" width="214.05" height="370" as="geometry" />
+          <mxGeometry x="160" y="30" width="214.05" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-1" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="630" width="80" height="150" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry x="860" y="680" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-7" value="添加学生信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-40" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="40" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-8" value="查询学生信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="30" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="110" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-9" value="修改学生信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="100" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="180" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-10" value="删除学生信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="170" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-11" value="添加班级信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="240" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="320" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FV9McBMn7sDS3tVeis9o-1" target="FV9McBMn7sDS3tVeis9o-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
