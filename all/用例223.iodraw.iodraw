@@ -8,7 +8,7 @@
           <mxGeometry x="165.94" y="850" width="214.05" height="300" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="485" width="214.05" height="300" as="geometry" />
+          <mxGeometry x="170" y="500" width="214.05" height="300" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165.94" y="175" width="214.05" height="300" as="geometry" />
@@ -104,10 +104,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-28" value="修改课程信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="202.97" y="660" width="140" height="70" as="geometry" />
+          <mxGeometry x="202.97" y="590" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-29" value="删除课程信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="202.97" y="730" width="140" height="70" as="geometry" />
+          <mxGeometry x="202.97" y="660" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FV9McBMn7sDS3tVeis9o-1" target="FV9McBMn7sDS3tVeis9o-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
