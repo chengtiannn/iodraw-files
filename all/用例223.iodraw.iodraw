@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xYQmgxB1bSYWteTrFGgh-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162.97" y="-50" width="214.05" height="290" as="geometry" />
+          <mxGeometry x="162.97" y="-50" width="214.05" height="310" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-1" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="630" width="80" height="150" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="202.97" y="100" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-10" value="删除学生信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="202.97" y="170" width="140" height="70" as="geometry" />
+          <mxGeometry x="202.97" y="170" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FV9McBMn7sDS3tVeis9o-11" value="添加班级信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="140" height="70" as="geometry" />
