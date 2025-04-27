@@ -88,11 +88,14 @@
             <mxPoint x="40" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FV9McBMn7sDS3tVeis9o-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FV9McBMn7sDS3tVeis9o-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FV9McBMn7sDS3tVeis9o-1" target="FV9McBMn7sDS3tVeis9o-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="650" as="sourcePoint" />
             <mxPoint x="90" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FV9McBMn7sDS3tVeis9o-28" value="添加课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="780" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
