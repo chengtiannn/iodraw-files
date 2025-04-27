@@ -131,13 +131,13 @@
           <mxGeometry x="200" y="950" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-8" value="设置账号权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="910" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="1210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-9" value="添加账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1130" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="1090" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-10" value="删除账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1050" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="1020" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xYQmgxB1bSYWteTrFGgh-11" value="设置账号个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1050" width="140" height="70" as="geometry" />
