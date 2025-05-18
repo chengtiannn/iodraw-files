@@ -67,7 +67,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-16" value="评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-17" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="255" y="380" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
