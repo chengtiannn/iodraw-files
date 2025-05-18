@@ -149,8 +149,11 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-44" value="服务名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-45" value="密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-45" value="服务价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-46" value="密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="300" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
