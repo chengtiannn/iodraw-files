@@ -16,7 +16,7 @@
           <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-4" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-5" value="用户名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="100" width="80" height="40" as="geometry" />
@@ -66,7 +66,7 @@
             <mxPoint x="410" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-16" value="评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
