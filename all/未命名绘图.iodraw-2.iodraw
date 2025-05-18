@@ -122,6 +122,9 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-35" value="服务ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="620" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-36" value="总价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
