@@ -30,7 +30,7 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-8" value="用户ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="110" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-9" value="用户角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
