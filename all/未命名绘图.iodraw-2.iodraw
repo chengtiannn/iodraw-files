@@ -162,7 +162,7 @@
           <mxGeometry x="850" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-49" value="商家ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="850" y="310" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
