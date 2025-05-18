@@ -13,7 +13,7 @@
           <mxGeometry x="270" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-3" value="服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-4" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="530" width="120" height="60" as="geometry" />
@@ -72,8 +72,8 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-17" value="创建" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="263.34" y="380" width="133.33" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-18" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="410" y="240" width="133.33" height="80" as="geometry" />
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-18" value="发布" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="133.33" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
