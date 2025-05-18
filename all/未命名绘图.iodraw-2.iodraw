@@ -70,10 +70,13 @@
           <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-17" value="创建" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="263.34" y="380" width="133.33" height="80" as="geometry" />
+          <mxGeometry x="425" y="520" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-18" value="发布" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="133.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-19" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="593.33" y="370" width="133.33" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
