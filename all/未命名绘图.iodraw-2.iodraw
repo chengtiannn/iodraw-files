@@ -135,7 +135,7 @@
           <mxGeometry x="470" y="620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-40" value="评价ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-41" value="订单ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="540" width="80" height="40" as="geometry" />
