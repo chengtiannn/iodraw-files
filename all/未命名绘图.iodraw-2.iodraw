@@ -158,8 +158,11 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-47" value="服务描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-48" value="密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-48" value="服务图片链接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-49" value="密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
