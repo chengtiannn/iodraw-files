@@ -34,7 +34,7 @@
           <mxGeometry x="280" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-10" value="服务ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="530" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fkPVkmnYVdGQdvOBwwzO-8" target="fkPVkmnYVdGQdvOBwwzO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,10 +147,10 @@
           <mxGeometry x="710" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-44" value="服务名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="650" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-45" value="服务价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-46" value="服务分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="300" width="80" height="40" as="geometry" />
