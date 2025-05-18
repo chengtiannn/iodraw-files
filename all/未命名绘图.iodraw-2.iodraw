@@ -153,13 +153,13 @@
           <mxGeometry x="760" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-46" value="服务分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-47" value="服务描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="870" y="110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-48" value="服务图片链接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="850" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-49" value="商家ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="350" width="80" height="40" as="geometry" />
