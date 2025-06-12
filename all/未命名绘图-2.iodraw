@@ -282,7 +282,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-3" value="创建时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="610" width="80" height="40" as="geometry" />
+          <mxGeometry x="593.3299999999999" y="630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-4" value="预约时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="650" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
