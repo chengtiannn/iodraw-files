@@ -144,7 +144,7 @@
           <mxGeometry x="880" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-43" value="评价内容" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-44" value="服务名称" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="90" width="80" height="40" as="geometry" />
@@ -288,10 +288,10 @@
           <mxGeometry x="575" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-5" value="用户ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="610" width="80" height="40" as="geometry" />
+          <mxGeometry x="880" y="468" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-6" value="服务ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="890" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
