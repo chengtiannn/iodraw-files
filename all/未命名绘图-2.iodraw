@@ -279,7 +279,7 @@
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-13" value="评价" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="410" y="525" width="133.33" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-14" value="对应" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+        <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-14" value="被评价" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="673.33" y="350" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-15" value="提供" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
