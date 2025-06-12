@@ -131,7 +131,7 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-38" value="预约地点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-39" value="状态（预约中等）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-39" value="订单状态（预约中等）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="510" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-40" value="评价ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
