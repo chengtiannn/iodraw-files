@@ -140,7 +140,7 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-41" value="订单ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-42" value="评分" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-42" value="评分（1-5）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-43" value="评价内容" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -282,10 +282,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-3" value="创建时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539.9999999999999" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="554.9999999999999" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-4" value="评价时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="610" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-5" value="用户ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="470" width="80" height="40" as="geometry" />
