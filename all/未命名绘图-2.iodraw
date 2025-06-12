@@ -152,7 +152,7 @@
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-45" value="服务价格" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkPVkmnYVdGQdvOBwwzO-46" value="服务分类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fkPVkmnYVdGQdvOBwwzO-46" value="服务类别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-47" value="服务描述" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
