@@ -294,8 +294,8 @@
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-16" value="对应" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="136.67000000000002" y="350" width="133.33" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-17" value="有评论" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="710" width="70" height="40" as="geometry" />
+        <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-18" value="对应" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="133.33" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
