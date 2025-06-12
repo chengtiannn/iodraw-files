@@ -135,10 +135,10 @@
           <mxGeometry x="430" y="510" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-40" value="评价ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-41" value="订单ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-42" value="评分" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="490" width="80" height="40" as="geometry" />
@@ -285,10 +285,10 @@
           <mxGeometry x="539.9999999999999" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-4" value="评价时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="575" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-5" value="用户ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="660" y="650" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
