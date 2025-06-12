@@ -120,7 +120,7 @@
           <mxGeometry x="90" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-35" value="服务ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-36" value="总价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="600" width="80" height="40" as="geometry" />
