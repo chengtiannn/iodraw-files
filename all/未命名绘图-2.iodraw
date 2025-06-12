@@ -123,13 +123,13 @@
           <mxGeometry x="100" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-36" value="总价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="380" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-37" value="预约时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="610" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-38" value="预约地点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="540" width="80" height="40" as="geometry" />
+          <mxGeometry x="90" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkPVkmnYVdGQdvOBwwzO-39" value="订单状态（预约中等）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="510" width="80" height="40" as="geometry" />
@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8H3ZZ_H0hh5NCv4Qwfk-1" value="预约时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="580" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
